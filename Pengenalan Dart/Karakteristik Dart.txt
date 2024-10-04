@@ -1,0 +1,32 @@
+Karakteristik Dart
+Dart memiliki bahasa modern dan berfitur lengkap. Dart juga memiliki banyak kemiripan
+dengan bahasa lain yang sudah banyak dikenal seperti Java, C#, Javascript, Swift, dan Kotlin.
+Rancangan utama Dart adalah supaya bahasa ini familiar dengan bahasa Javascript dan Java/C#
+
+main(){
+var name = "Dicoding";
+String laguage = "Dart";
+print("Hello $name. Welcome to $language!");
+}
+
+Jika Anda telah familiar dengan bahasa pemrograman lain seperti Java KOtlin, atau Swift, 
+tent Anda paham bagaimana code di atas bekerja.
+
+Dart memiliki beberapa karakteristik sebagai berikut
+- Staticaly Typed.
+Kita perlu mendefinisikan Variable sebelum bisa menggunakannya. Dart juga memiliki dynamic variable,
+/////// Artinya akan dibahas di modul variable. ///////
+Dart juga memiliki fitur 
+- Typed inference. 
+di mana tipe data secara otomatis terdeteksi ketika suatu variable diinisalisasi
+contoh
+var name = "Dicoding";
+variable name di atas akan terdeteksi sebagai String
+- String Interpolation.
+String Interpolation = fitur untuk menyisipkan variable ke dalam 
+sebuah objek string tanpa concenatenation ( pengabungan objek String menggunakan + )
+- Multi-paradigm: OOP & Function.
+Artinya Dart mendukung OOP atau Object Oriented Programing dan Functional Programing (FP).
+Dengan OOP kita dapat membuat program testruktur yang memiliki konsep object, classes, properties, contructor, dll.
+Selain itu dengan FP kita dapat menerapkan fitur0fitur seperti higher-order function, recrurtion, first-class citizen, dll.
+
