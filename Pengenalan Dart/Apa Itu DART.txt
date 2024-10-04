@@ -1,0 +1,13 @@
+Apa itu dart?
+FLutter ditulis menggunakan bahasa pemrograman dart
+Dart merupakan bahasa pemrograman open source dan general purpose. Dart dikembangkan oleh google untuk membuat aplikasi seperti mobile, desktop,, dan web.
+Dart dikenalkan di GOTO pada tahun 2011. 
+
+Sebelum Flutter dart digunakan untu menggantikan Javascript karena dinilai memiliki banyak kelemahan dan dibuat untuk membuat web yang ada di google.
+
+Kenapa perlu belajar bahasa pemrograman dart?
+- Dart merupakan bahasa yang fleksible, Dart dapat berjalan di manapun baik di Android, IOS, maupun web. 
+- Dart adalah project open source.
+- Dart digunakan oleh Fluttter. Flutter merupakan project revolusioner radi Google untuk mengembangkan aplikasi multiplatform dengan tampilan UI yang menarik
+- Dart memiliki dukungan tols yang lengkap.
+- Dart mudah dipelajari dan bagus sebagai first language.
